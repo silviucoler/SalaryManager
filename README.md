@@ -10,10 +10,6 @@ This is a basic JavaScript program that uses object oriented programming to impl
 2. Usage
 3. Credits
 
-## Introduction
-
-The personal site has been developed to provide information about me and my hobbies to anyone who visits the site. The site includes sections about my background, education, work experience, and interests.
-
 ## Installation
 
 To run the personal site locally, follow these steps:
